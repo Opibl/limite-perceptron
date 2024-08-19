@@ -1,1 +1,1 @@
-vizualizacion del limite de decicion del perceptrón
+vizualización del limite de decisión del perceptrón
